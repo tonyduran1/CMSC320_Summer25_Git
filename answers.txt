@@ -5,3 +5,8 @@ There are multiple different reasons to use git:
 1. Collaboration with others on projects is made easier and more efficent.
 2. Different versions of the history of the repository and its progression are stored in case of situations
    where there is a need to revert or access code that was since altered.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can be applied to the field of sports analysis. Analysts that try to predict outcomes
+        and lines (Gambling odds) of future games that are played, using data.
