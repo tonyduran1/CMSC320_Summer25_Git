@@ -3,7 +3,7 @@ Q1: Why might we consider using Git?
 Answer:
 There are multiple different reasons to use git:
 1. Collaboration with others on projects is made easier and more efficent.
-2. Different versions of the history of the repository and its progression are stored in case of situations
+2. Different versions of the repository's history and its commits (saves) are stored in case of situations
    where there is a need to revert or access code that was since altered.
 
 Q2: What field could data science be applied to? Give an Example.
@@ -13,7 +13,8 @@ Answer: Data Science can be applied to the field of sports analysis. Analysts th
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: There is an additional commit in the merge process.
+Answer: Rebasing makes the branches visually cleaner to look at and more linear, but preserves less details on commit history. 
+        Merging keeps all of the saved details/merges. Merge history can become messy to look at as there are more branches
 
 Q4: What are you looking forward to this semester?
 
