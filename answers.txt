@@ -14,3 +14,8 @@ Answer: Data Science can be applied to the field of sports analysis. Analysts th
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: I honestly have no clue as of the moment this is filler
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning foundational concepts in data science that I can apply in the field 
+	of Artificial Intelligence.
