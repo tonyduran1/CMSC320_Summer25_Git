@@ -10,3 +10,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can be applied to the field of sports analysis. Analysts that try to predict outcomes
         and lines (Gambling odds) of future games that are played, using data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: I honestly have no clue as of the moment this is filler
